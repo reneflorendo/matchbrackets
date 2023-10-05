@@ -5,6 +5,7 @@ According to the specifications, this is the output of the matching brackets pro
 
 
 Performance graph using BenchmarkDotNet
+
 ![image](https://github.com/reneflorendo/matchbrackets/assets/4901363/857948de-6f8c-478c-9129-b58a0fd9358e)
 
 The output of a benchmark test using BenchmarkDotNet, a popular .NET library for benchmarking code performance. In this output, various aspects of a method's performance are measured and reported in a tabular format.
